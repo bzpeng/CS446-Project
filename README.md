@@ -1,8 +1,5 @@
-CS446 Crash Test Dummies Group Project. Team members: Amanda Fenn, Bill Peng, Meng Dong, Liwen Lu
-
-CS446-Project
-
-CS446 Crash Test Dummies Group Project.
+CS446 Crash Test Dummies Group Project. 
+Team members: Amanda Fenn, Bill Peng, Meng Dong, Liwen Lu
 
 To install React Native Facebook SDK, run the following command under the main directory:
 
